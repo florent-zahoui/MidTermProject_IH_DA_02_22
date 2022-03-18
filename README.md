@@ -15,3 +15,5 @@ Hallo
          - Day 3 - Modelling ( Transformation, encoding)
          - Day 4 - Modelling ( Split, Model Accuracy) / Presentation ( Slides / Notebook / Tableau preparation) / Mock presentation
          - Day 5 - Presentation in front of the class
+         
+      Visualization available here : https://github.com/florent-zahoui/MidTermProject_IH_DA_02_22/blob/main/MidTerm%20Project/Project%20Workbook.pdf
